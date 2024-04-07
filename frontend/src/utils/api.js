@@ -130,6 +130,6 @@ class Api {
   }
 }
 // Замените на адрес вашего бэкенда
-const api = new Api("http://api.shalunoff-m.nomoredomains.monster");
+const api = new Api("https://api.shalunoff-m.nomoredomains.monster");
 
 export default api;
