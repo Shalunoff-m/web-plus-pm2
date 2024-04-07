@@ -1,3 +1,7 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+**Работу выполнил:** Шалунов Максим |
+22 Когорта
+
+**Front:** https://shalunoff-m.nomoredomains.monster </br>
+**Back:** https://api.shalunoff-m.nomoredomains.monster
